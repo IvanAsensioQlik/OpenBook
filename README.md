@@ -17,5 +17,5 @@ Make great presentations with transitions like page flip.
   Basic customization allowed like fonts, shadows, texts...
 
 ## Look Examples
-![Mashup example Films](https://github.com/IvanAsensioQlik/OpenBook/blob/main/img/Short_video_OpenBook.mp4)
+![Open book example video](https://github.com/IvanAsensioQlik/OpenBook/blob/main/img/Short_video_OpenBook.mp4)
 
