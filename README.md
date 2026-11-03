@@ -2,6 +2,7 @@
 A Qlik Sense extension that allows to add master items and simulate a book flipping pages
 
 Author: Ivan Felipe ivan.felipe@qlik.com
+
 Updated: 3rd Nov 2026
 
 Make great presentations with transitions like page flip.
