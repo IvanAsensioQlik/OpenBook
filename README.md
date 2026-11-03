@@ -18,4 +18,4 @@ Make great presentations with transitions like page flip.
 
 ## Look Examples
 ![Open book example video](https://github.com/IvanAsensioQlik/OpenBook/blob/main/img/Short_video_OpenBook.mp4)
-
+                           
