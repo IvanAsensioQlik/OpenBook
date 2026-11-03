@@ -17,6 +17,5 @@ Make great presentations with transitions like page flip.
   Basic customization allowed like fonts, shadows, texts...
 
 ## Look Examples
-![Open book example video]
-[https://github.com/user-attachments/assets/cd6eb0d2-3df6-4c80-8787-5a94ee45a442](https://github.com/IvanAsensioQlik/OpenBook/raw/main/img/Short_video_OpenBook.mp4)
+![Open book example video](https://github.com/IvanAsensioQlik/OpenBook/raw/main/img/Short_video_OpenBook.mp4)
 
