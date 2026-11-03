@@ -19,6 +19,4 @@ Make great presentations with transitions like page flip.
 ## Look Examples
 
 
-<video src="https://github.com/user-attachments/assets/68013513-3496-4ffd-b267-27d7044ddf7b"
-       poster="https://raw.githubusercontent.com/IvanAsensioQlik/OpenBook/main/img/miniatura.png"
-       controls width="100%"></video>
+https://github.com/user-attachments/assets/68013513-3496-4ffd-b267-27d7044ddf7b
